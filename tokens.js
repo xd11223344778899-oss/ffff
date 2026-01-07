@@ -13,7 +13,7 @@ export default [
         presence: {
             status: "dnd",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1356340823658332301",
@@ -43,7 +43,7 @@ export default [
         presence: {
             status: "dnd",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1356340832227164221",
@@ -58,11 +58,11 @@ export default [
         presence: {
             status: "dnd",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
-        channelId: "1447271238354604115",
-        serverId: "1415105760265769145",
+        channelId: "1356341154689581136",
+        serverId: "1300245281987629147",
         token: process.env.token5,
         selfDeaf: false,
         autoReconnect: {
@@ -76,8 +76,8 @@ export default [
         selfMute: false,
     },
         {
-        channelId: "1447271238354604115",
-        serverId: "1415105760265769145",
+        channelId: "1356341154689581136",
+        serverId: "1300245281987629147",
         token: process.env.token6,
         selfDeaf: false,
         autoReconnect: {
@@ -91,8 +91,8 @@ export default [
         selfMute: false,
     },
         {
-        channelId: "1447271238354604115",
-        serverId: "1415105760265769145",
+        channelId: "1356341154689581136",
+        serverId: "1300245281987629147",
         token: process.env.token7,
         selfDeaf: false,
         autoReconnect: {
@@ -106,8 +106,8 @@ export default [
         selfMute: false,
     },
         {
-        channelId: "1447271238354604115",
-        serverId: "1415105760265769145",
+        channelId: "1356341154689581136",
+        serverId: "1300245281987629147",
         token: process.env.token8,
         selfDeaf: false,
         autoReconnect: {
@@ -121,8 +121,8 @@ export default [
         selfMute: false,
     },
         {
-        channelId: "1447271238354604115",
-        serverId: "1415105760265769145",
+        channelId: "1356341154689581136",
+        serverId: "1300245281987629147",
         token: process.env.token9,
         selfDeaf: false,
         autoReconnect: {
@@ -136,8 +136,8 @@ export default [
         selfMute: false,
     },
         {
-        channelId: "1447271238354604115",
-        serverId: "1415105760265769145",
+        channelId: "1356341154689581136",
+        serverId: "1300245281987629147",
         token: process.env.token10,
         selfDeaf: false,
         autoReconnect: {
@@ -151,8 +151,8 @@ export default [
         selfMute: true,
     },
         {
-        channelId: "1447271238354604115",
-        serverId: "1415105760265769145",
+        channelId: "1356341154689581136",
+        serverId: "1300245281987629147",
         token: process.env.token11,
         selfDeaf: false,
         autoReconnect: {
@@ -166,8 +166,8 @@ export default [
         selfMute: false,
     },
         {
-        channelId: "1447271238354604115",
-        serverId: "1415105760265769145",
+        channelId: "1356341203666337844",
+        serverId: "1300245281987629147",
         token: process.env.token12,
         selfDeaf: false,
         autoReconnect: {
@@ -181,8 +181,8 @@ export default [
         selfMute: false,
     },
         {
-        channelId: "1447271238354604115",
-        serverId: "1415105760265769145",
+        channelId: "1356341203666337844",
+        serverId: "1300245281987629147",
         token: process.env.token13,
         selfDeaf: false,
         autoReconnect: {
@@ -196,8 +196,8 @@ export default [
         selfMute: false,
     },
         {
-        channelId: "1447271238354604115",
-        serverId: "1415105760265769145",
+        channelId: "1356341203666337844",
+        serverId: "1300245281987629147",
         token: process.env.token14,
         selfDeaf: false,
         autoReconnect: {
@@ -208,11 +208,11 @@ export default [
         presence: {
             status: "online",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
-        channelId: "1447271238354604115",
-        serverId: "1415105760265769145",
+        channelId: "1356341203666337844",
+        serverId: "1300245281987629147",
         token: process.env.token15,
         selfDeaf: false,
         autoReconnect: {
@@ -223,11 +223,11 @@ export default [
         presence: {
             status: "dnd",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
-        channelId: "1447271238354604115",
-        serverId: "1415105760265769145",
+        channelId: "1356341203666337844",
+        serverId: "1300245281987629147",
         token: process.env.token16,
         selfDeaf: false,
         autoReconnect: {
@@ -238,11 +238,11 @@ export default [
         presence: {
             status: "dnd",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
-        channelId: "1447271238354604115",
-        serverId: "1415105760265769145",
+        channelId: "1356341203666337844",
+        serverId: "1300245281987629147",
         token: process.env.token17,
         selfDeaf: false,
         autoReconnect: {
@@ -253,11 +253,11 @@ export default [
         presence: {
             status: "dnd",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
-        channelId: "1447271238354604115",
-        serverId: "1415105760265769145",
+        channelId: "1448856690073272393",
+        serverId: "1300245281987629147",
         token: process.env.token18,
         selfDeaf: false,
         autoReconnect: {
@@ -268,11 +268,11 @@ export default [
         presence: {
             status: "online",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
-        channelId: "1447271238354604115",
-        serverId: "1415105760265769145",
+        channelId: "1448856766929702974",
+        serverId: "1300245281987629147",
         token: process.env.token19,
         selfDeaf: false,
         autoReconnect: {
@@ -283,6 +283,6 @@ export default [
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
 ];

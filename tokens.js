@@ -4,7 +4,7 @@ export default [
         channelId: "1356340858290442264",
         serverId: "1300245281987629147",
         token: process.env.token1,
-        selfDeaf: false,
+        selfDeaf: true,
         autoReconnect: {
             enabled: true,
             delay: 5, // ثواني
@@ -34,7 +34,7 @@ export default [
         channelId: "1448856690073272393",
         serverId: "1300245281987629147",
         token: process.env.token3,
-        selfDeaf: false,
+        selfDeaf: true,
         autoReconnect: {
             enabled: true,
             delay: 5, // ثواني
@@ -64,7 +64,7 @@ export default [
         channelId: "1356341203666337844",
         serverId: "1300245281987629147",
         token: process.env.token5,
-        selfDeaf: false,
+        selfDeaf: true,
         autoReconnect: {
             enabled: true,
             delay: 5, // ثواني
@@ -139,7 +139,7 @@ export default [
         channelId: "1356341154689581136",
         serverId: "1300245281987629147",
         token: process.env.token10,
-        selfDeaf: false,
+        selfDeaf: true,
         autoReconnect: {
             enabled: true,
             delay: 5, // ثواني
@@ -169,7 +169,7 @@ export default [
         channelId: "1356341154689581136",
         serverId: "1300245281987629147",
         token: process.env.token12,
-        selfDeaf: false,
+        selfDeaf: true,
         autoReconnect: {
             enabled: true,
             delay: 5, // ثواني
@@ -178,13 +178,13 @@ export default [
         presence: {
             status: "dnd",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1356340782998749266",
         serverId: "1300245281987629147",
         token: process.env.token13,
-        selfDeaf: false,
+        selfDeaf: true,
         autoReconnect: {
             enabled: true,
             delay: 5, // ثواني
@@ -193,13 +193,13 @@ export default [
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1356340782998749266",
         serverId: "1300245281987629147",
         token: process.env.token14,
-        selfDeaf: false,
+        selfDeaf: true,
         autoReconnect: {
             enabled: true,
             delay: 5, // ثواني
@@ -208,7 +208,7 @@ export default [
         presence: {
             status: "dnd",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1356341203666337844",

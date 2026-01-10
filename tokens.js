@@ -34,7 +34,7 @@ export default [
         channelId: "1448856690073272393",
         serverId: "1300245281987629147",
         token: process.env.token3,
-        selfDeaf: true,
+        selfDeaf: false,
         autoReconnect: {
             enabled: true,
             delay: 5, // ثواني
@@ -43,7 +43,7 @@ export default [
         presence: {
             status: "dnd",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1356341154689581136",
@@ -58,7 +58,7 @@ export default [
         presence: {
             status: "idle",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1356341203666337844",
@@ -73,7 +73,7 @@ export default [
         presence: {
             status: "idle",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1356341154689581136",
@@ -88,7 +88,7 @@ export default [
         presence: {
             status: "dnd",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1356341154689581136",
@@ -118,7 +118,7 @@ export default [
         presence: {
             status: "dnd",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1356341154689581136",
@@ -141,14 +141,14 @@ export default [
         token: process.env.token10,
         selfDeaf: true,
         autoReconnect: {
-            enabled: true,
+            enabled: false,
             delay: 5, // ثواني
             maxRetries: 5,
         },
         presence: {
             status: "dnd",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
         channelId: "1356341154689581136",

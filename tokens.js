@@ -73,7 +73,7 @@ export default [
         presence: {
             status: "idle",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1356341154689581136",

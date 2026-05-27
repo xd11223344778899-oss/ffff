@@ -496,4 +496,169 @@ export default [
         },
         selfMute: true,
     },
+            {
+        channelId: "1508031709642358935",
+        serverId: "1372543856515747943",
+        token: process.env.token34,
+        selfDeaf: false,
+        autoReconnect: {
+            enabled: true,
+            delay: 5,
+            maxRetries: 5,
+        },
+        presence: {
+            status: "dnd",
+        },
+        selfMute: true,
+    },
+            {
+        channelId: "1430561000188411948",
+        serverId: "1372543856515747943",
+        token: process.env.token35,
+        selfDeaf: false,
+        autoReconnect: {
+            enabled: true,
+            delay: 5,
+            maxRetries: 5,
+        },
+        presence: {
+            status: "dnd",
+        },
+        selfMute: false,
+    },
+            {
+        channelId: "1430561000188411948",
+        serverId: "1372543856515747943",
+        token: process.env.token36,
+        selfDeaf: false,
+        autoReconnect: {
+            enabled: true,
+            delay: 5,
+            maxRetries: 5,
+        },
+        presence: {
+            status: "dnd",
+        },
+        selfMute: false,
+    },
+            {
+        channelId: "1430561000188411948",
+        serverId: "1372543856515747943",
+        token: process.env.token37,
+        selfDeaf: true,
+        autoReconnect: {
+            enabled: true,
+            delay: 5,
+            maxRetries: 5,
+        },
+        presence: {
+            status: "dnd",
+        },
+        selfMute: true,
+    },
+            {
+        channelId: "1508317141471072266",
+        serverId: "1372543856515747943",
+        token: process.env.token38,
+        selfDeaf: false,
+        autoReconnect: {
+            enabled: true,
+            delay: 5,
+            maxRetries: 5,
+        },
+        presence: {
+            status: "dnd",
+        },
+        selfMute: true,
+    },
+            {
+        channelId: "1508320344606249030",
+        serverId: "1372543856515747943",
+        token: process.env.token39,
+        selfDeaf: true,
+        autoReconnect: {
+            enabled: true,
+            delay: 5,
+            maxRetries: 5,
+        },
+        presence: {
+            status: "dnd",
+        },
+        selfMute: true,
+    },
+            {
+        channelId: "1508322974292381877",
+        serverId: "1372543856515747943",
+        token: process.env.token40,
+        selfDeaf: true,
+        autoReconnect: {
+            enabled: true,
+            delay: 5,
+            maxRetries: 5,
+        },
+        presence: {
+            status: "dnd",
+        },
+        selfMute: true,
+    },
+            {
+        channelId: "1508323260209823794",
+        serverId: "1372543856515747943",
+        token: process.env.token41,
+        selfDeaf: false,
+        autoReconnect: {
+            enabled: true,
+            delay: 5,
+            maxRetries: 5,
+        },
+        presence: {
+            status: "dnd",
+        },
+        selfMute: true,
+    },
+            {
+        channelId: "1508323584043384832",
+        serverId: "1372543856515747943",
+        token: process.env.token42,
+        selfDeaf: true,
+        autoReconnect: {
+            enabled: true,
+            delay: 5,
+            maxRetries: 5,
+        },
+        presence: {
+            status: "dnd",
+        },
+        selfMute: true,
+    },
+            {
+        channelId: "1508323728457732186",
+        serverId: "1372543856515747943",
+        token: process.env.token43,
+        selfDeaf: true,
+        autoReconnect: {
+            enabled: true,
+            delay: 5,
+            maxRetries: 5,
+        },
+        presence: {
+            status: "dnd",
+        },
+        selfMute: true,
+    },
+    {
+        channelId: "1508323840512626708",
+        serverId: "1372543856515747943",
+        token: process.env.token44,
+        selfDeaf: false,
+        autoReconnect: {
+            enabled: true,
+            delay: 5,
+            maxRetries: 5,
+        },
+        presence: {
+            status: "dnd",
+        },
+        selfMute: false,
+    },
 ];

@@ -466,4 +466,34 @@ export default [
         },
         selfMute: true,
     },
+        {
+        channelId: "1508031709642358935",
+        serverId: "1372543856515747943",
+        token: process.env.token32,
+        selfDeaf: false,
+        autoReconnect: {
+            enabled: true,
+            delay: 5,
+            maxRetries: 5,
+        },
+        presence: {
+            status: "dnd",
+        },
+        selfMute: true,
+    },
+        {
+        channelId: "1508031709642358935",
+        serverId: "1372543856515747943",
+        token: process.env.token33,
+        selfDeaf: false,
+        autoReconnect: {
+            enabled: true,
+            delay: 5,
+            maxRetries: 5,
+        },
+        presence: {
+            status: "dnd",
+        },
+        selfMute: true,
+    },
 ];

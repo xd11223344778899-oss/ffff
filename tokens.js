@@ -35,7 +35,7 @@ export default [
         channelId: "1508347683704668241",
         serverId: "1372543856515747943",
         token: process.env.token3,
-        selfDeaf: true,
+        selfDeaf: false,
         autoReconnect: {
             enabled: true,
             delay: 5,
@@ -532,7 +532,7 @@ export default [
         token: process.env.token36,
         selfDeaf: false,
         autoReconnect: {
-            enabled: true,
+            enabled: false,
             delay: 5,
             maxRetries: 5,
         },

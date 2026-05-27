@@ -14,7 +14,7 @@ export default [
         presence: {
             status: "idle",
         },
-        selfMute: true,
+        selfMute: false,
     },
     {
         channelId: "1508347683704668241",
@@ -29,7 +29,7 @@ export default [
         presence: {
             status: "dnd",
         },
-        selfMute: true,
+        selfMute: false,
     },
     {
         channelId: "1508347683704668241",
@@ -44,7 +44,7 @@ export default [
         presence: {
             status: "idle",
         },
-        selfMute: true,
+        selfMute: false,
     },
     {
         channelId: "1508347683704668241",
@@ -59,7 +59,7 @@ export default [
         presence: {
             status: "idle",
         },
-        selfMute: true,
+        selfMute: false,
     },
     {
         channelId: "1508347683704668241",

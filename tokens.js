@@ -467,7 +467,7 @@ export default [
         selfMute: true,
     },
         {
-        channelId: "1508317561111052369",
+        channelId: "1508347683704668241",
         serverId: "1372543856515747943",
         token: process.env.token32,
         selfDeaf: false,
@@ -482,7 +482,7 @@ export default [
         selfMute: true,
     },
         {
-        channelId: "1508317583311634544",
+        channelId: "1508347683704668241",
         serverId: "1372543856515747943",
         token: process.env.token33,
         selfDeaf: false,
@@ -497,7 +497,7 @@ export default [
         selfMute: true,
     },
             {
-        channelId: "1508317777822224414",
+        channelId: "1508347683704668241",
         serverId: "1372543856515747943",
         token: process.env.token34,
         selfDeaf: false,
@@ -512,7 +512,7 @@ export default [
         selfMute: true,
     },
             {
-        channelId: "1508320344606249030",
+        channelId: "1508347683704668241",
         serverId: "1372543856515747943",
         token: process.env.token35,
         selfDeaf: false,
@@ -527,7 +527,7 @@ export default [
         selfMute: false,
     },
             {
-        channelId: "1508321542965301250",
+        channelId: "1508347683704668241",
         serverId: "1372543856515747943",
         token: process.env.token36,
         selfDeaf: false,
@@ -542,7 +542,7 @@ export default [
         selfMute: false,
     },
             {
-        channelId: "1508321542965301250",
+        channelId: "1508347683704668241",
         serverId: "1372543856515747943",
         token: process.env.token37,
         selfDeaf: true,
@@ -557,7 +557,7 @@ export default [
         selfMute: true,
     },
             {
-        channelId: "1508322821279977472",
+        channelId: "1508347683704668241",
         serverId: "1372543856515747943",
         token: process.env.token38,
         selfDeaf: false,
@@ -572,7 +572,7 @@ export default [
         selfMute: true,
     },
             {
-        channelId: "1508322974292381877",
+        channelId: "1508347683704668241",
         serverId: "1372543856515747943",
         token: process.env.token39,
         selfDeaf: true,
@@ -587,7 +587,7 @@ export default [
         selfMute: true,
     },
             {
-        channelId: "1508323153640947802",
+        channelId: "1508347683704668241",
         serverId: "1372543856515747943",
         token: process.env.token40,
         selfDeaf: true,
@@ -602,7 +602,7 @@ export default [
         selfMute: true,
     },
             {
-        channelId: "1508323260209823794",
+        channelId: "1508347683704668241",
         serverId: "1372543856515747943",
         token: process.env.token41,
         selfDeaf: false,
@@ -617,7 +617,7 @@ export default [
         selfMute: true,
     },
             {
-        channelId: "1508323584043384832",
+        channelId: "1508347683704668241",
         serverId: "1372543856515747943",
         token: process.env.token42,
         selfDeaf: true,
@@ -632,7 +632,7 @@ export default [
         selfMute: true,
     },
             {
-        channelId: "1508323728457732186",
+        channelId: "1508347683704668241",
         serverId: "1372543856515747943",
         token: process.env.token43,
         selfDeaf: true,
@@ -647,7 +647,7 @@ export default [
         selfMute: true,
     },
     {
-        channelId: "1508323840512626708",
+        channelId: "1508347683704668241",
         serverId: "1372543856515747943",
         token: process.env.token44,
         selfDeaf: false,

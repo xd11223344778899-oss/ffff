@@ -241,4 +241,3 @@ export default [
         selfMute: true,
     },
 ];
-https://discord.com/api/webhooks/1470145005397213461/oHaDGIAydXomqu7RZ8vUkWfVKI6E3PzjcAGexLCmI0ZKaph1fL6wCMBimfXw0D400p9v

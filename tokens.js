@@ -1,4 +1,4 @@
-// status can be "online", "idle", "dnd", or "invisible" or "offline"
+s// status can be "online", "idle", "dnd", or "invisible" or "offline"
 
 export default [
     {

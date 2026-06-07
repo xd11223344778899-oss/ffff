@@ -224,10 +224,10 @@ export default [
         presence: {
             status: "dnd",
         },
-        selfMute: true,
+        selfMute: false,
     },
     {
-        channelId: "1508347683704668241",
+        channelId: "1508320344606249030",
         serverId: "1372543856515747943",
         token: process.env.token16,
         selfDeaf: false,
@@ -242,7 +242,7 @@ export default [
         selfMute: true,
     },
     {
-        channelId: "1508031709642358935",
+        channelId: "1508320344606249030",
         serverId: "1372543856515747943",
         token: process.env.token17,
         selfDeaf: false,

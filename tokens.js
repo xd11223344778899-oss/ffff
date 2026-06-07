@@ -302,7 +302,7 @@ export default [
         selfMute: true,
     },
     {
-        channelId: "1508347683704668241",
+        channelId: "1508321542965301250",
         serverId: "1372543856515747943",
         token: process.env.token21,
         selfDeaf: false,
@@ -312,12 +312,12 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "dnd",
         },
         selfMute: false,
     },
     {
-        channelId: "1508031709642358935",
+        channelId: "1508323728457732186",
         serverId: "1372543856515747943",
         token: process.env.token22,
         selfDeaf: false,
@@ -327,7 +327,7 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "idle",
+            status: "dnd",
         },
         selfMute: true,
     },

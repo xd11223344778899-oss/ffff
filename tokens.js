@@ -32,7 +32,7 @@ export default [
         selfMute: false,
     },
     {
-        channelId: "1430560997919293582",
+        channelId: "1508254884472815656",
         serverId: "1372543856515747943",
         token: process.env.token3,
         selfDeaf: false,

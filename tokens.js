@@ -103,7 +103,7 @@ export default [
         presence: {
             status: "dnd",
         },
-        selfMute: true,
+        selfMute: false,
     },
     {
         channelId: "1508321542965301250",

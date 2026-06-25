@@ -1,7 +1,7 @@
 // status can be "online", "idle", "dnd", or "invisible" or "offline"
 export default [
     {
-        channelId: "1356340816381083839",
+        channelId: "1508322974292381877",
         serverId: "1300245281987629147",
         token: process.env.token1,
         selfDeaf: false,
@@ -13,13 +13,13 @@ export default [
         presence: {
             status: "dnd",
         },
-        selfMute: true,
+        selfMute: False,
     },
         {
-        channelId: "1356340823658332301",
+        channelId: "1508322974292381877",
         serverId: "1300245281987629147",
         token: process.env.token2,
-        selfDeaf: true,
+        selfDeaf: False,
         autoReconnect: {
             enabled: true,
             delay: 5, // ثواني
@@ -28,7 +28,7 @@ export default [
         presence: {
             status: "dnd",
         },
-        selfMute: true,
+        selfMute: False,
     },
         {
         channelId: "1356340827907035156",

@@ -1,7 +1,7 @@
 // status can be "online", "idle", "dnd", "invisible" or "offline"
 export default [
     {
-        channelId: "1508322974292381877",
+        channelId: "1508329704355139604",
         serverId: "1372543856515747943",
         token: process.env.token1,
         selfDeaf: false,
@@ -16,7 +16,7 @@ export default [
         selfMute: false,
     },
     {
-        channelId: "1508322974292381877",
+        channelId: "1508329282102104134",
         serverId: "1372543856515747943",
         token: process.env.token2,
         selfDeaf: false,
@@ -31,7 +31,7 @@ export default [
         selfMute: false,
     },
     {
-        channelId: "1508317752065134612",
+        channelId: "1508328514082836551",
         serverId: "1372543856515747943",
         token: process.env.token3,
         selfDeaf: true,
@@ -46,7 +46,7 @@ export default [
         selfMute: true,
     },
     {
-        channelId: "1508317561111052369",
+        channelId: "1508329031383126016",
         serverId: "1372543856515747943",
         token: process.env.token4,
         selfDeaf: false,
@@ -61,7 +61,7 @@ export default [
         selfMute: false,
     },
     {
-        channelId: "1430561055817597039",
+        channelId: "1508329031383126016",
         serverId: "1372543856515747943",
         token: process.env.token5,
         selfDeaf: false,
@@ -73,10 +73,10 @@ export default [
         presence: {
             status: "dnd",
         },
-        selfMute: true,
+        selfMute: false,
     },
     {
-        channelId: "1508254884472815656",
+        channelId: "1508328713341894686",
         serverId: "1372543856515747943",
         token: process.env.token6,
         selfDeaf: false,
@@ -91,7 +91,7 @@ export default [
         selfMute: true,
     },
     {
-        channelId: "1508323840512626708",
+        channelId: "1508328713341894686",
         serverId: "1372543856515747943",
         token: process.env.token7,
         selfDeaf: false,
@@ -106,7 +106,7 @@ export default [
         selfMute: false,
     },
     {
-        channelId: "1508321542965301250",
+        channelId: "1508254884472815656",
         serverId: "1372543856515747943",
         token: process.env.token8,
         selfDeaf: false,
@@ -121,7 +121,7 @@ export default [
         selfMute: true,
     },
     {
-        channelId: "1508322974292381877",
+        channelId: "1430561045482700954",
         serverId: "1372543856515747943",
         token: process.env.token9,
         selfDeaf: true,
@@ -136,7 +136,7 @@ export default [
         selfMute: true,
     },
     {
-        channelId: "1508323840512626708",
+        channelId: "1508314941625597952",
         serverId: "1372543856515747943",
         token: process.env.token10,
         selfDeaf: false,

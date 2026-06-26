@@ -11,7 +11,7 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "dnd",
+            status: "offline",
         },
         selfMute: false,
     },
@@ -26,7 +26,7 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "dnd",
+            status: "offline",
         },
         selfMute: false,
     },
@@ -41,7 +41,7 @@ export default [
             maxRetries: 5,
         },
         presence: {
-            status: "dnd",
+            status: "idle",
         },
         selfMute: true,
     },

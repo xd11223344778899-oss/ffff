@@ -138,7 +138,7 @@ export default [
     {
         channelId: "1430560997919293582",
         serverId: "1372543856515747943",
-        token: process.env.token10,
+        token: process.env.token11,
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
@@ -153,7 +153,7 @@ export default [
         {
         channelId: "1430561002554003568",
         serverId: "1372543856515747943",
-        token: process.env.token10,
+        token: process.env.token12,
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
@@ -168,7 +168,7 @@ export default [
         {
         channelId: "1508321843293982750",
         serverId: "1372543856515747943",
-        token: process.env.token10,
+        token: process.env.token13,
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
@@ -183,7 +183,7 @@ export default [
         {
         channelId: "1430561000188411948",
         serverId: "1372543856515747943",
-        token: process.env.token10,
+        token: process.env.token14,
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
@@ -198,7 +198,7 @@ export default [
         {
         channelId: "1430561000188411948",
         serverId: "1372543856515747943",
-        token: process.env.token10,
+        token: process.env.token15,
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
@@ -213,7 +213,7 @@ export default [
         {
         channelId: "1508315839021973554",
         serverId: "1372543856515747943",
-        token: process.env.token10,
+        token: process.env.token16,
         selfDeaf: true,
         autoReconnect: {
             enabled: true,
@@ -228,7 +228,7 @@ export default [
         {
         channelId: "1508317331741216898",
         serverId: "1372543856515747943",
-        token: process.env.token10,
+        token: process.env.token17,
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
@@ -243,7 +243,7 @@ export default [
         {
         channelId: "1508317331741216898",
         serverId: "1372543856515747943",
-        token: process.env.token10,
+        token: process.env.token18,
         selfDeaf: false,
         autoReconnect: {
             enabled: true,

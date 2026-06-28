@@ -118,10 +118,10 @@ export default [
         presence: {
             status: "dnd",
         },
-        selfMute: true,
+        selfMute: false,
     },
         {
-            channelId: "1430561057436598372",
+            channelId: "1508321542965301250",
             serverId: "1372543856515747943",
             token: process.env.token9,
             selfDeaf: true,
@@ -133,12 +133,57 @@ export default [
             presence: {
                 status: "dnd",
             },
-            selfMute: true,
+            selfMute: false,
         },
         {
-            channelId: "1508328514082836551",
+            channelId: "1430561048167186605",
             serverId: "1372543856515747943",
             token: process.env.token10,
+            selfDeaf: true,
+            autoReconnect: {
+                enabled: true,
+                delay: 5,
+                maxRetries: 5,
+            },
+            presence: {
+                status: "dnd",
+            },
+            selfMute: true,
+        },
+            {
+            channelId: "1430561048167186605",
+            serverId: "1372543856515747943",
+            token: process.env.token11,
+            selfDeaf: true,
+            autoReconnect: {
+                enabled: true,
+                delay: 5,
+                maxRetries: 5,
+            },
+            presence: {
+                status: "dnd",
+            },
+            selfMute: true,
+        },
+            {
+            channelId: "1508328137233268746",
+            serverId: "1372543856515747943",
+            token: process.env.token12,
+            selfDeaf: true,
+            autoReconnect: {
+                enabled: true,
+                delay: 5,
+                maxRetries: 5,
+            },
+            presence: {
+                status: "dnd",
+            },
+            selfMute: true,
+        },
+            {
+            channelId: "1508328137233268746",
+            serverId: "1372543856515747943",
+            token: process.env.token13,
             selfDeaf: true,
             autoReconnect: {
                 enabled: true,

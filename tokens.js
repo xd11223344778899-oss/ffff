@@ -4,7 +4,7 @@ export default [
         channelId: "1508329704355139604",
         serverId: "1372543856515747943",
         token: process.env.token1,
-        selfDeaf: false,
+        selfDeaf: true,
         autoReconnect: {
             enabled: true,
             delay: 5,
@@ -13,7 +13,7 @@ export default [
         presence: {
             status: "dnd",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1508328514082836551",
@@ -34,7 +34,7 @@ export default [
         channelId: "1508329031383126016",
         serverId: "1372543856515747943",
         token: process.env.token3,
-        selfDeaf: false,
+        selfDeaf: true,
         autoReconnect: {
             enabled: true,
             delay: 5,
@@ -43,13 +43,13 @@ export default [
         presence: {
             status: "dnd",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1430560997919293582",
         serverId: "1372543856515747943",
         token: process.env.token4,
-        selfDeaf: false,
+        selfDeaf: true,
         autoReconnect: {
             enabled: true,
             delay: 5,
@@ -58,7 +58,7 @@ export default [
         presence: {
             status: "dnd",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1430560997919293582",
@@ -73,7 +73,7 @@ export default [
         presence: {
             status: "offline",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1430561000188411948",
@@ -88,7 +88,7 @@ export default [
         presence: {
             status: "dnd",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1430561055817597039",
@@ -148,7 +148,7 @@ export default [
         presence: {
             status: "dnd",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1508317141471072266",
@@ -163,7 +163,7 @@ export default [
         presence: {
             status: "dnd",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1508317777822224414",

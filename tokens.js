@@ -118,7 +118,7 @@ export default [
         presence: {
             status: "offline",
         },
-        selfMute: false,
+        selfMute: true,
     },
         {
         channelId: "1508317455632568391",

@@ -183,7 +183,7 @@ export default [
         {
         channelId: "1508317777822224414",
         serverId: "1372543856515747943",
-        token: process.env.token13,
+        token: process.env.token1,
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
@@ -198,7 +198,7 @@ export default [
         {
         channelId: "1430561054173167677",
         serverId: "1372543856515747943",
-        token: process.env.token14,
+        token: process.env.token1,
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
@@ -213,7 +213,7 @@ export default [
         {
         channelId: "1430561054173167677",
         serverId: "1372543856515747943",
-        token: process.env.token15,
+        token: process.env.token1,
         selfDeaf: true,
         autoReconnect: {
             enabled: true,
@@ -228,7 +228,7 @@ export default [
         {
         channelId: "1430561054173167677",
         serverId: "1372543856515747943",
-        token: process.env.token16,
+        token: process.env.token1,
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
@@ -243,7 +243,7 @@ export default [
         {
         channelId: "1430561048167186605",
         serverId: "1372543856515747943",
-        token: process.env.token17,
+        token: process.env.token1,
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
@@ -258,7 +258,7 @@ export default [
         {
         channelId: "1430561048167186605",
         serverId: "1372543856515747943",
-        token: process.env.token18,
+        token: process.env.token1,
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
@@ -273,7 +273,7 @@ export default [
         {
         channelId: "1508328137233268746",
         serverId: "1372543856515747943",
-        token: process.env.token19,
+        token: process.env.token1,
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
@@ -288,7 +288,7 @@ export default [
         {
         channelId: "1508328137233268746",
         serverId: "1372543856515747943",
-        token: process.env.token20,
+        token: process.env.token1,
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
@@ -303,7 +303,7 @@ export default [
         {
         channelId: "1508329282102104134",
         serverId: "1372543856515747943",
-        token: process.env.token21,
+        token: process.env.token1,
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
@@ -318,7 +318,7 @@ export default [
     {
         channelId: "1508329282102104134",
         serverId: "1372543856515747943",
-        token: process.env.token22,
+        token: process.env.token1,
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
@@ -333,7 +333,7 @@ export default [
         {
         channelId: "1508329704355139604",
         serverId: "1372543856515747943",
-        token: process.env.token23,
+        token: process.env.token1,
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
@@ -348,7 +348,7 @@ export default [
         {
         channelId: "1508329282102104134",
         serverId: "1372543856515747943",
-        token: process.env.token24,
+        token: process.env.token1,
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
@@ -363,7 +363,7 @@ export default [
         {
         channelId: "1508321542965301250",
         serverId: "1372543856515747943",
-        token: process.env.token25,
+        token: process.env.token1,
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
@@ -378,7 +378,7 @@ export default [
         {
         channelId: "1508321542965301250",
         serverId: "1372543856515747943",
-        token: process.env.token26,
+        token: process.env.token1,
         selfDeaf: false,
         autoReconnect: {
             enabled: true,
